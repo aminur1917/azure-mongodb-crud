@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      uri : mongodb://mondgodb-crud:FLGPT6LZ8krD48QERWLowti9RIVOOPgYBoPiN0ILczKqXgW42gX9VhYnie9pEVUHMf1SgQ5H2qiOACDbS2b9Vw==@mondgodb-crud.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@mondgodb-crud@
+      uri : your connection string
       database : test-database
